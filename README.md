@@ -1,3 +1,10 @@
+## COSSI: Commercial Open Source Software Index
+
+COSSI is a public index of all commercial open source software with revenues above $100MM.
+
+COSS Media and OSS Capital have compiled this information to make it publicly accessible and editable.  In this folder, you can access the data in markdown format (see below) and as a JSON file.
+
+
 | Company                    | Core Project(s)         | OSS License     | Company Creation | Project Creation | OSS Origin                        | VC Raised (M) | Employees | Est. Revenue (M) | Est. Valuation (B) | Exit Value (B) | Public/Private                                           | Status      | Outcome   | Exit Date  | Sector                                  | Business Model        | Foundation-Based                                     | Founders (122)           |                 |                    |                     |                  |                    |                    |
 |----------------------------|-------------------------|-----------------|------------------|------------------|-----------------------------------|---------------|-----------|------------------|--------------------|----------------|----------------------------------------------------------|-------------|-----------|------------|-----------------------------------------|-----------------------|------------------------------------------------------|--------------------------|-----------------|--------------------|---------------------|------------------|--------------------|--------------------|
 | Acquia                     | Drupal                  | GPL v2          | 2007             | 2000             | Personal project                  | $200          | 930       | $200             | $1.5               | $1.50          | Private                                                  | PE          | PE        | 9/24/19    | Web Content Mgmt System                 | Open Core             | Yes                                                  | Dries Buytaert           |                 |                    | Jay Batson          |                  |                    |                    |
